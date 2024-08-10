@@ -181,32 +181,29 @@ In Home view, all the views button will be available. User will land on specific
 
 ## Info Page
 
-![Info.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Info.gif)
+![Info.png](https://github.com/dnyaneshwar-0611/Business_360_PowerBI/blob/main/info.png)
 
 ## Finance View
 
-![Finace.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Finace.gif)
+![Finance.png](https://github.com/dnyaneshwar-0611/Business_360_PowerBI/blob/main/finance.png)
+
 ## Sales View
 
-![Sales.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Sales.gif)
+![Sales.png](https://github.com/dnyaneshwar-0611/Business_360_PowerBI/blob/main/sales.png)
 
 ## Marketing View
 
-![Marketing.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Marketing.gif)
+![Marketing.png](https://github.com/dnyaneshwar-0611/Business_360_PowerBI/blob/main/marketing.png)
 
 ## Supply chain View
 
-![Supply chain.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/supply%20chain.gif)
+![Supply chain.png](https://github.com/dnyaneshwar-0611/Business_360_PowerBI/blob/main/supply_chain.png)
 
 ## Executive View
 
-![Executive.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Executive.gif)
+![Executive.png](https://github.com/dnyaneshwar-0611/Business_360_PowerBI/blob/main/executive_view.png)
 
-## Products
 
-![Products](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Products%20View.gif)
-
-you can find the full report file here : [Report](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Report/360.pbix)
 
 
 ## Project Outcome
