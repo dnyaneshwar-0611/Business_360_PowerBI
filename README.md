@@ -204,6 +204,8 @@ In Home view, all the views button will be available. User will land on specific
 ![Executive.png](https://github.com/dnyaneshwar-0611/Business_360_PowerBI/blob/main/executive_view.png)
 
 
+## Ineractive Dashboard
+![Dashboard](https://github.com/dnyaneshwar-0611/Business_360_PowerBI/blob/main/BI_360_compressed.zip)
 
 
 ## Project Outcome
