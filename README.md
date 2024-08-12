@@ -205,7 +205,7 @@ In Home view, all the views button will be available. User will land on specific
 
 
 ## Ineractive Dashboard
-![Dashboard](https://github.com/dnyaneshwar-0611/Business_360_PowerBI/blob/main/BI_360_compressed.zip)
+![BI_360_compressed.zip](https://github.com/dnyaneshwar-0611/Business_360_PowerBI/blob/main/BI_360_compressed.zip)
 
 
 ## Project Outcome
